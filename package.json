@@ -1,7 +1,7 @@
 {
   "name": "tdunn-scripts",
-  "version": "0.0.0-semantically-released",
-  "description": "CLI for common scripts for my projects",
+  "version": "1.0.0",
+  "description": "CLI for my daily used scripts",
   "engines": {
     "node": ">= 8",
     "npm": ">= 5"
